@@ -33,5 +33,5 @@ This project is licensed under the MIT License. See the LICENSE.md file for deta
 
 ## Project Status
 
-This project is actively developed and maintained to provide an optimal point of sale experience for local grocery stores.
+This project is finished.
 
